@@ -15,6 +15,14 @@
       "tipo": "release",
       "icon": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/icons/icon2.png",
       "descripcion": "Instancia dedicada al survival con granjas masivas."
+    },
+    {
+      "id": 3,
+      "nombre": "Evento Wiron",
+      "version": "1.19.4",
+      "tipo": "release",
+      "icon": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/icons/icon2.png",
+      "descripcion": "Instancia dedicada al survival con granjas masivas."
     }
   ]
 }
