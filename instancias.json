@@ -1,16 +1,6 @@
 {
   "estancias": [
     {
-      "nombre": "COBBLEVERSE OFFICIAL",
-      "version": "1.21.1",
-      "tipo": "fabric",
-      "fabric_version": "fabric-loader-0.18.4-1.21.1",
-      "modpack": "principal.mrpack",
-      "java_version": "21",
-      "icon": "coble.webp",
-      "descripcion": "🌟 ¡Bienvenido a la experiencia oficial de Cobbleverse! 🌟\n🔥 Explora, captura y domina en esta aventura definitiva. 🔥"
-    },
-    {
       "nombre": "1.16.5 Optimizado",
       "version": "1.16.5",
       "tipo": "fabric",
