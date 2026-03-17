@@ -1,14 +1,28 @@
-{
-  "estancias": [
-    {
-      "nombre": "Survival 1.21",
-      "version": "1.21.1",
-      "tipo": "fabric",
-      "fabric_version": "0.15.11",
-      "descripcion": "Nuestro servidor principal",
-      "icono": "URL_A_IMAGEN",
-      "fondo": "URL_A_FONDO",
-      "java_version": "21"
-    }
-  ]
-}
+[
+  {
+    "nombre": "TheMurft PvP Forge",
+    "version": "1.8.8",
+    "tipo": "forge",
+    "forge_version": "11.15.1.1722",
+    "java_version": "8",
+    "modpack": null,
+    "icon": "icon1.jpg"
+  },
+  {
+    "nombre": "TheMurft Fabric 1.21.1",
+    "version": "1.21.1",
+    "tipo": "fabric",
+    "fabric_version": "0.16.0",
+    "java_version": "21",
+    "modpack": "principal.mrpack",
+    "icon": "icon1.jpg"
+  },
+  {
+    "nombre": "TheMurft Vanilla 1.20.1",
+    "version": "1.20.1",
+    "tipo": "vanilla",
+    "java_version": "17",
+    "modpack": null,
+    "icon": "icon1.jpg"
+  }
+]
