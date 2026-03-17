@@ -1,5 +1,5 @@
 {
-  "estancias": [
+  "instancias": [
     {
       "nombre": "OPTIFABRIC 1.16.5",
       "version": "1.16.5",
@@ -8,7 +8,7 @@
       "modpack": "opti.mrpack",
       "java_version": "8",
       "icon": "icon1.jpg",
-      "descripcion": "Es minecraft optimizado\nExelente para jugar survival"
+      "descripcion": "§a§l¡MINECRAFT OPTIMIZADO!§r\n\n§fDisfruta de un §eSurvival §fsin lag con §bFabric§f.\n\n§7> §aFPS §fEstables\n§7> §6Soporte §fde Shaders\n§7> §dFluidez §fTotal"
     }
   ]
 }
