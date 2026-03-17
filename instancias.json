@@ -4,17 +4,18 @@
       "nombre": "TheMurft 1.21.1",
       "version": "1.21.1",
       "tipo": "fabric",
-      "icon": "https://...",
-      "descripcion": "<span style='color: #00ff00;'>● Online</span>\n<span style='color: #ffffff;'>Versión:</span> <span style='color: #00aaff;'>1.21.1 Fabric</span>\n<b style='color: #ffaa00;'>¡Nuevos mods añadidos!</b>",
-      "installer_url": "https://..."
+      "icon": "icon1.jpg",
+      "descripcion": "<span style='color: #00ff00;'>● Servidor Online</span>\n<span style='color: #ffffff;'>Cargando motor:</span> <span style='color: #00aaff;'>Fabric 1.21.1</span>",
+      "installer_url": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/motores/fabric-installer-1.1.1.jar"
     },
     {
       "nombre": "TheMurft PvP",
       "version": "1.8.8",
       "tipo": "forge",
-      "icon": "https://...",
-      "descripcion": "<span style='color: #ff4444;'>⚠ Mantenimiento</span>\n<span style='color: #aaaaaa;'>Ideal para hacer clics rápidos.</span>",
-      "installer_url": "https://..."
+      "icon": "icon1.jpg", 
+      "descripcion": "<b style='color: #ffaa00;'>MODO PVP ACTIVADO</b>\n<span style='color: #aaaaaa;'>Forge 1.8.8 Clásico</span>",
+      "installer_url": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/motores/forge-installer-1.8.8.jar",
+      "forge_version": "11.15.1.2318"
     }
   ]
 }
