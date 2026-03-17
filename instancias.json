@@ -1,23 +1,28 @@
-{
-  "estancias": [
-    {
-      "nombre": "TheMurft PvP Forge",
-      "version": "1.8.8",
-      "tipo": "forge",
-      "forge_version": "11.15.1.2318",
-      "java_version": "8",
-      "icon": "icon1.jpg",
-      "descripcion": "Servidor oficial de TheMurft Studio.\nVersión optimizada para PvP 1.8.8 con soporte para mods (Forge).\nRequiere Java 8."
-    },
-    {
-      "nombre": "TheMurft Fabric 1.21.1",
-      "version": "1.21.1",
-      "tipo": "fabric",
-      "fabric_version": "fabric-loader-0.18.4-1.21.1",
-      "modpack": "principal.mrpack",
-      "java_version": "21",
-      "icon": "icon1.jpg",
-      "descripcion": "Instancia moderna con Fabric 1.21.1 y Modpack oficial.\nRequiere Java 21."
-    }
-  ]
-}
+[
+  {
+    "nombre": "TheMurft PvP Forge",
+    "version": "1.8.8",
+    "tipo": "forge",
+    "forge_version": "11.15.1.1722",
+    "java_version": "8",
+    "modpack": "principal.mrpack",
+    "icon": "icon1.jpg"
+  },
+  {
+    "nombre": "TheMurft Fabric 1.21.1",
+    "version": "1.21.1",
+    "tipo": "fabric",
+    "fabric_version": "0.16.0",
+    "java_version": "21",
+    "modpack": null,
+    "icon": "icon1.jpg"
+  },
+  {
+    "nombre": "TheMurft Vanilla 1.20.1",
+    "version": "1.20.1",
+    "tipo": "vanilla",
+    "java_version": "17",
+    "modpack": null,
+    "icon": "icon1.jpg"
+  }
+]
