@@ -1,14 +1,14 @@
 {
   "estancias": [
     {
-      "nombre": "TheMurft Fabric a",
+      "nombre": "💠 【 COBBLEVERSE OFFICIAL 】 💠",
       "version": "1.21.1",
       "tipo": "fabric",
       "fabric_version": "fabric-loader-0.18.4-1.21.1",
       "modpack": "principal.mrpack",
       "java_version": "21",
-      "icon": "icon1.jpg",
-      "descripcion": "Prueba mamalona Modpack .\n."
+      "icon": "https://cdn.modrinth.com/data/Jkb29YJU/581ecf54530972afb18a04660afd820f2f24f6c7.png",
+      "descripcion": "🌟 ¡Bienvenido a la experiencia oficial de Cobbleverse! 🌟\n🔥 Explora, captura y domina en esta aventura definitiva. 🔥"
     }
   ]
 }
