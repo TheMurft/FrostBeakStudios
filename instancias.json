@@ -3,18 +3,20 @@
     {
       "nombre": "TheMurft PvP",
       "version": "1.8.8",
-      "tipo": "relase",
+      "tipo": "release",
       "java_version": "8",
       "icon": "icon1.jpg",
-      "descripcion": "Servidor oficial de TheMurft Studio.\nVersión optimizada para el mejor rendimiento en combate 1.8.8.\n Requiere Java 8 (El launcher lo instalará solo)."
+      "descripcion": "Servidor oficial de TheMurft Studio.\nVersión optimizada para PvP 1.8.8.\nRequiere Java 8."
     },
     {
-      "nombre": "fabric",
-      "version": "1.8.8",
+      "nombre": "TheMurft Fabric 1.21.1",
+      "version": "1.21.1",
       "tipo": "fabric",
-      "java_version": "8",
+      "fabric_version": "fabric-loader-0.16.0-1.21.1",
+      "modpack": "principal.mrpack",
+      "java_version": "21",
       "icon": "icon1.jpg",
-      "descripcion": "fabric"
+      "descripcion": "Instancia moderna con Fabric 1.21.1 y Modpack oficial.\nRequiere Java 21."
     }
   ]
 }
