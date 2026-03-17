@@ -6,7 +6,7 @@
       "tipo": "fabric",
       "fabric_version": "fabric-loader-0.18.4-1.21.1",
       "modpack": "opti.mrpack",
-      "java_version": "21",
+      "java_version": "8",
       "icon": "icon1.jpg",
       "descripcion": "Es minecraft optimizado\nExelente para jugar survival"
     }
