@@ -9,16 +9,6 @@
       "descripcion": "Bienvenidos al servidor principal de Eufonia Studio.",
       "mrpack": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/packs/principal.mrpack",
       "version_pack": 1
-    },
-    {
-      "id": "survival-tecnico",
-      "nombre": "Survival Técnico",
-      "version": "1.19.4",
-      "tipo": "release",
-      "icon": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/icons/icon2.png",
-      "descripcion": "Instancia dedicada al survival con granjas masivas.",
-      "mrpack": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/packs/survival.mrpack",
-      "version_pack": 5
     }
   ]
 }
