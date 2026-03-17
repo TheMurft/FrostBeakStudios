@@ -1,18 +1,15 @@
 {
-  "estancias": [
-    {
-      "nombre": "TheMurft Test",
-      "version": "1.21.1",
-      "icon": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/icons/icon1.jpg",
-      "descripcion": "Instancia principal para el Team.\nVersión estable 1.21.1 con Fabric.",
-      "mrpack": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/packs/principal.mrpack"
-    },
-    {
-      "nombre": "TheMurft PvP",
-      "version": "1.8.8",
-      "icon": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/icons/pvp.jpg",
-      "descripcion": "Instancia optimizada para PvP.\nVersión 1.8.8 con Forge y Optifine.",
-      "mrpack": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/packs/pvp.mrpack"
-    }
-  ]
+  "nombre": "TheMurft 1.21.1 Fabric",
+  "version": "1.21.1",
+  "tipo": "fabric",
+  "installer_url": "https://tu-github.com/motores/fabric-installer.jar",
+  "icon": "..."
+},
+{
+  "nombre": "TheMurft 1.8.8 Forge",
+  "version": "1.8.8",
+  "tipo": "forge",
+  "installer_url": "https://tu-github.com/motores/forge-1.8.8-installer.jar",
+  "forge_version": "11.15.1.2318",
+  "icon": "..."
 }
