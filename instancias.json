@@ -6,7 +6,7 @@
       "tipo": "forge",
       "forge_version": "11.15.1.2318",
       "java_version": "8",
-      "icon": "icon1.png",
+      "icon": "icon1.jpg",
       "descripcion": "Servidor oficial de TheMurft Studio. \\n\\nVersión optimizada para el mejor rendimiento en combate 1.8.8. \\n\\nRequiere Java 8 (El launcher lo instalará solo)."
     }
   ]
