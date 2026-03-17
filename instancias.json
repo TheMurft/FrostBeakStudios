@@ -6,7 +6,7 @@
       "tipo": "fabric",
       "fabric_version": "fabric-loader-0.18.4-1.21.1",
       "modpack": "fob.mrpack",
-      "java_version": "8",
+      "java_version": "16",
       "icon": "icon1.jpg",
       "descripcion": "Es minecraft optimizado\nNo esperes desc XD"
     }
