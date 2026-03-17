@@ -1,21 +1,22 @@
 {
   "estancias": [
     {
-      "nombre": "TheMurft 1.21.1",
-      "version": "1.21.1",
-      "tipo": "fabric",
-      "icon": "icon1.jpg",
-      "descripcion": "<span style='color: #00ff00;'>● Servidor Online</span>\n<span style='color: #ffffff;'>Cargando motor:</span> <span style='color: #00aaff;'>Fabric 1.21.1</span>",
-      "installer_url": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/motores/fabric-installer-1.1.1.jar"
-    },
-    {
       "nombre": "TheMurft PvP",
       "version": "1.8.8",
       "tipo": "forge",
-      "icon": "icon1.jpg", 
-      "descripcion": "<b style='color: #ffaa00;'>MODO PVP ACTIVADO</b>\n<span style='color: #aaaaaa;'>Forge 1.8.8 Clásico</span>",
-      "installer_url": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/motores/forge-1.8.8.jar",
-      "forge_version": "11.15.1.2318"
+      "forge_version": "11.15.1.2318",
+      "java_version": "8",
+      "icon": "icon1.png",
+      "descripcion": "Versión optimizada para PvP. Requiere Java 8."
+    },
+    {
+      "nombre": "Survival 1.21.1",
+      "version": "1.21.1",
+      "tipo": "fabric",
+      "installer_url": "https://tu-repo.com/fabric-installer.jar",
+      "java_version": "21",
+      "icon": "icon2.png",
+      "descripcion": "Lo último de Minecraft. Requiere Java 21."
     }
   ]
 }
