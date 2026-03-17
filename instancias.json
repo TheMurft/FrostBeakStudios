@@ -14,7 +14,7 @@
       "tipo": "forge",
       "icon": "icon1.jpg", 
       "descripcion": "<b style='color: #ffaa00;'>MODO PVP ACTIVADO</b>\n<span style='color: #aaaaaa;'>Forge 1.8.8 Clásico</span>",
-      "installer_url": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/motores/forge-installer-1.8.8.jar",
+      "installer_url": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/motores/forge-1.8.8.jar",
       "forge_version": "11.15.1.2318"
     }
   ]
