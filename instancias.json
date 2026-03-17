@@ -3,10 +3,10 @@
     {
       "id": "principal",
       "nombre": "TheMurft Test",
-      "version": "1.20.1",
-      "tipo": "release",
+      "version": "1.21.1", 
+      "tipo": "fabric", 
       "icon": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/icons/icon1.jpg",
-      "descripcion": "Esta instancia esta dedicada para uso exclsivo del team\nWhitelis activa.",
+      "descripcion": "Esta instancia esta dedicada para uso exclusivo del team\nWhitelist activa.",
       "mrpack": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/packs/principal.mrpack",
       "version_pack": 2
     }
