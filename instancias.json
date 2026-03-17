@@ -1,7 +1,7 @@
 {
   "estancias": [
     {
-      "nombre": "1.16.5 Optimizado",
+      "nombre": "OPTIFINE 1.16.5",
       "version": "1.16.5",
       "tipo": "fabric",
       "fabric_version": "fabric-loader-0.18.4-1.21.1",
