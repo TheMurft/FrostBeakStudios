@@ -1,7 +1,7 @@
 {
   "estancias": [
     {
-      "nombre": "TheMurft Fabric 1.21.1",
+      "nombre": "TheMurft Fabric",
       "version": "1.21.1",
       "tipo": "fabric",
       "fabric_version": "fabric-loader-0.18.4-1.21.1",
