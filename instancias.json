@@ -14,7 +14,7 @@
       "tipo": "fabric",
       "java_version": "8",
       "icon": "icon1.jpg",
-      "descripcion": "Servidor oficial de TheMurft Studio.\nVersión optimizada para el mejor rendimiento en combate 1.8.8.\n Requiere Java 8 (El launcher lo instalará solo)."
+      "descripcion": "fabric"
     }
   ]
 }
