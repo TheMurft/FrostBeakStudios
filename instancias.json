@@ -4,16 +4,14 @@
       "nombre": "TheMurft PvP",
       "version": "1.8.8",
       "tipo": "relase",
-      "forge_version": "11.15.1.2318",
       "java_version": "8",
       "icon": "icon1.jpg",
       "descripcion": "Servidor oficial de TheMurft Studio.\nVersión optimizada para el mejor rendimiento en combate 1.8.8.\n Requiere Java 8 (El launcher lo instalará solo)."
     },
     {
-      "nombre": "Gian gay",
+      "nombre": "fabric",
       "version": "1.8.8",
-      "tipo": "relase",
-      "forge_version": "11.15.1.2318",
+      "tipo": "fabric",
       "java_version": "8",
       "icon": "icon1.jpg",
       "descripcion": "Servidor oficial de TheMurft Studio.\nVersión optimizada para el mejor rendimiento en combate 1.8.8.\n Requiere Java 8 (El launcher lo instalará solo)."
