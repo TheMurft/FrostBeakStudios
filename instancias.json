@@ -2,10 +2,10 @@
   "estancias": [
     {
       "id": "principal",
-      "nombre": "Kaito es gay",
+      "nombre": "TheMurft Test",
       "version": "1.20.1",
       "tipo": "release",
-      "icon": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/icons/icon1.png",
+      "icon": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/icons/icon1.jpg",
       "descripcion": "Bienvenidos al servidor principal de Eufonia Studio.",
       "mrpack": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/packs/principal.mrpack",
       "version_pack": 1
