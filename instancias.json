@@ -1,14 +1,18 @@
 {
   "estancias": [
     {
-      "id": "principal",
       "nombre": "TheMurft Test",
-      "version": "1.21.1", 
-      "tipo": "fabric", 
+      "version": "1.21.1",
       "icon": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/icons/icon1.jpg",
-      "descripcion": "Esta instancia esta dedicada para uso exclusivo del team\nWhitelist activa.",
-      "mrpack": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/packs/principal.mrpack",
-      "version_pack": 2
+      "descripcion": "Instancia principal para el Team.\nVersión estable 1.21.1 con Fabric.",
+      "mrpack": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/packs/principal.mrpack"
+    },
+    {
+      "nombre": "TheMurft PvP",
+      "version": "1.8.8",
+      "icon": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/icons/pvp.jpg",
+      "descripcion": "Instancia optimizada para PvP.\nVersión 1.8.8 con Forge y Optifine.",
+      "mrpack": "https://raw.githubusercontent.com/TheMurft/themurftstudio/main/packs/pvp.mrpack"
     }
   ]
 }
