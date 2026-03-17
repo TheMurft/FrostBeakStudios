@@ -7,16 +7,7 @@
       "forge_version": "11.15.1.2318",
       "java_version": "8",
       "icon": "icon1.png",
-      "descripcion": "Versión optimizada para PvP. Requiere Java 8."
-    },
-    {
-      "nombre": "Survival 1.21.1",
-      "version": "1.21.1",
-      "tipo": "fabric",
-      "installer_url": "https://tu-repo.com/fabric-installer.jar",
-      "java_version": "21",
-      "icon": "icon2.png",
-      "descripcion": "Lo último de Minecraft. Requiere Java 21."
+      "descripcion": "Servidor oficial de TheMurft Studio. \\n\\nVersión optimizada para el mejor rendimiento en combate 1.8.8. \\n\\nRequiere Java 8 (El launcher lo instalará solo)."
     }
   ]
 }
