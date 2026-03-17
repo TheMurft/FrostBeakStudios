@@ -1,15 +1,20 @@
 {
-  "nombre": "TheMurft 1.21.1 Fabric",
-  "version": "1.21.1",
-  "tipo": "fabric",
-  "installer_url": "https://tu-github.com/motores/fabric-installer.jar",
-  "icon": "..."
-},
-{
-  "nombre": "TheMurft 1.8.8 Forge",
-  "version": "1.8.8",
-  "tipo": "forge",
-  "installer_url": "https://tu-github.com/motores/forge-1.8.8-installer.jar",
-  "forge_version": "11.15.1.2318",
-  "icon": "..."
+  "estancias": [
+    {
+      "nombre": "TheMurft 1.21.1",
+      "version": "1.21.1",
+      "tipo": "fabric",
+      "icon": "https://...",
+      "descripcion": "<span style='color: #00ff00;'>● Online</span>\n<span style='color: #ffffff;'>Versión:</span> <span style='color: #00aaff;'>1.21.1 Fabric</span>\n<b style='color: #ffaa00;'>¡Nuevos mods añadidos!</b>",
+      "installer_url": "https://..."
+    },
+    {
+      "nombre": "TheMurft PvP",
+      "version": "1.8.8",
+      "tipo": "forge",
+      "icon": "https://...",
+      "descripcion": "<span style='color: #ff4444;'>⚠ Mantenimiento</span>\n<span style='color: #aaaaaa;'>Ideal para hacer clics rápidos.</span>",
+      "installer_url": "https://..."
+    }
+  ]
 }
