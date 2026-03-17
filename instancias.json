@@ -1,12 +1,13 @@
 {
   "estancias": [
     {
-      "nombre": "TheMurft PvP",
+      "nombre": "TheMurft PvP Forge",
       "version": "1.8.8",
-      "tipo": "release",
+      "tipo": "forge",
+      "forge_version": "11.15.1.2318",
       "java_version": "8",
       "icon": "icon1.jpg",
-      "descripcion": "Servidor oficial de TheMurft Studio.\nVersión optimizada para PvP 1.8.8.\nRequiere Java 8."
+      "descripcion": "Servidor oficial de TheMurft Studio.\nVersión optimizada para PvP 1.8.8 con soporte para mods (Forge).\nRequiere Java 8."
     },
     {
       "nombre": "TheMurft Fabric 1.21.1",
