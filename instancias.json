@@ -4,7 +4,7 @@
       "nombre": "OPTIFABRIC 1.16.5",
       "version": "1.16.5",
       "tipo": "fabric",
-      "fabric_version": "fabric-loader-0.18.4-1.21.1",
+      "fabric_version": "fabric-loader-0.18.4-1.16.5",
       "modpack": "opti.mrpack",
       "java_version": "8",
       "icon": "icon1.jpg",
