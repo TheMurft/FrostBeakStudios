@@ -2,13 +2,13 @@
   "estancias": [
     {
       "nombre": "OPTIFCRAFT [v3]",
-      "version": "1.16.5",
+      "version": "1.21.1",
       "tipo": "fabric",
-      "fabric_version": "fabric-loader-0.18.4-1.16.5",
-      "modpack": "opticraft.mrpack",
+      "fabric_version": "fabric-loader-0.18.4-1.21.1",
+      "modpack": "opti.mrpack",
       "java_version": "8",
       "icon": "icon1.jpg",
-      "descripcion": "🚀 MINECRAFT OPTIMIZADO\n\nExperiencia SURVIVAL de alto rendimiento.\n\n• Fabric Engine\n• FPS Estables\n• Soporte Shaders"
+      "descripcion": "🚀 MINECRAFT OPTIMIZADO 1.21.1\n\nExperiencia SURVIVAL de alto rendimiento.\n\n• Fabric Engine\n• FPS Estables\n• Soporte Shaders"
     }
   ]
 }
