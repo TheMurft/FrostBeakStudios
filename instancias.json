@@ -1,7 +1,7 @@
 {
   "estancias": [
     {
-      "nombre": "OPTIFABRIC FULL",
+      "nombre": "OPTIFABRIC v2",
       "version": "1.16.5",
       "tipo": "fabric",
       "fabric_version": "fabric-loader-0.18.4-1.16.5",
