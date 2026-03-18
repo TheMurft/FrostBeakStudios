@@ -6,7 +6,7 @@
       "tipo": "fabric",
       "fabric_version": "fabric-loader-0.18.4-1.21.1",
       "modpack": "opti.mrpack",
-      "java_version": "8",
+      "java_version": "21",
       "icon": "icon1.jpg",
       "descripcion": "🚀 MINECRAFT OPTIMIZADO 1.21.1\n\nExperiencia SURVIVAL de alto rendimiento.\n\n• Fabric Engine\n• FPS Estables\n• Soporte Shaders"
     }
