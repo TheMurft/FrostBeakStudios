@@ -1,9 +1,9 @@
 {
   "estancias": [
     {
-      "nombre": "OPTIFCRAFTY",
+      "nombre": "1.16.5 Vanilla",
       "version": "1.16.5",
-      "tipo": "fabric",
+      "tipo": "vanilla",
       "fabric_version": "fabric-loader-0.18.4-1.16.5",
       "modpack": "optifabric.mrpack",
       "java_version": "21",
