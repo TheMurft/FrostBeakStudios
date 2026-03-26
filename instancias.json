@@ -1,11 +1,11 @@
 {
   "estancias": [
     {
-      "nombre": "1.16.5 Vanilla",
-      "version": "1.16.5",
+      "nombre": "1.21.1 Vanilla",
+      "version": "1.21.1",
       "tipo": "vanilla",
-      "fabric_version": "fabric-loader-0.18.4-1.16.5",
-      "modpack": "optifabric.mrpack",
+      "fabric_version": "fabric-loader-0.18.4-1.21.1",
+      "modpack": "test.mrpack",
       "java_version": "21",
       "icon": "icon1.jpg",
       "descripcion": "🚀 MINECRAFT OPTIMIZADO\n\nExperiencia SURVIVAL de alto rendimiento.\n\n• Fabric Engine\n• FPS Estables\n• Soporte Shaders"
