@@ -3,7 +3,7 @@
     {
       "nombre": "1.21.1 Vanilla",
       "version": "1.21.1",
-      "tipo": "vanilla",
+      "tipo": "fabric",
       "fabric_version": "fabric-loader-0.18.4-1.21.1",
       "modpack": "test.mrpack",
       "java_version": "21",
