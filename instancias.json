@@ -1,14 +1,14 @@
 {
   "estancias": [
     {
-      "nombre": "1.21.1 Vanilla",
+      "nombre": "TheMurft Studio",
       "version": "1.21.1",
       "tipo": "fabric",
       "fabric_version": "fabric-loader-0.18.4-1.21.1",
       "modpack": "principal.mrpack",
       "java_version": "21",
       "icon": "icon1.jpg",
-      "descripcion": "🚀 MINECRAFT OPTIMIZADO\n\nExperiencia SURVIVAL de alto rendimiento.\n\n• Fabric Engine\n• FPS Estables\n• Soporte Shaders"
+      "descripcion": "Instancia oficial basada en Fabric. Rendimiento optimizado con Java 21 y modpack principal integrado para una experiencia de juego vanguardista y sin interrupciones."
     }
   ]
 }
