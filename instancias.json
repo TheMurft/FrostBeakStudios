@@ -1,7 +1,7 @@
 {
   "estancias": [
     {
-      "nombre": "TheMurft Studio ON",
+      "nombre": "TheMurft Studio OFF",
       "version": "1.21.1",
       "whitelist": "off",
       "whitelist_nicks": ["Thimurft", "The_Murft"],
