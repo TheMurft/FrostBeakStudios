@@ -11,6 +11,18 @@
       "java_version": "21",
       "icon": "icon1.jpg",
       "descripcion": "Instancia oficial basada en Fabric. Rendimiento optimizado con Java 21 y modpack principal integrado para una experiencia de juego vanguardista y sin interrupciones.\nWHITELIS ON"
+    };
+    {
+      "nombre": "TheMurft Studio [1.0.0]",
+      "version": "1.21.1",
+      "whitelist": "on",
+      "whitelist_nicks": ["TheWiron", "TheMurft"],
+      "tipo": "fabric",
+      "fabric_version": "fabric-loader-0.18.4-1.21.1",
+      "modpack": "https://docs.google.com/uc?export=download&id=1l8uCqfqhqhyfFAg8x4Kyn-ViCJKwJFMm",
+      "java_version": "21",
+      "icon": "icon1.jpg",
+      "descripcion": "Instancia oficial basada en Fabric. Rendimiento optimizado con Java 21 y modpack principal integrado para una experiencia de juego vanguardista y sin interrupciones.\nWHITELIS ON"
     }
   ]
 }
