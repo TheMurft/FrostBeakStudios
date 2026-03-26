@@ -11,7 +11,7 @@
       "java_version": "21",
       "icon": "icon1.jpg",
       "descripcion": "Instancia oficial basada en Fabric. Rendimiento optimizado con Java 21 y modpack principal integrado para una experiencia de juego vanguardista y sin interrupciones.\nWHITELIS ON"
-    };
+    },
     {
       "nombre": "TheMurft Studio [1.0.0]",
       "version": "1.21.1",
