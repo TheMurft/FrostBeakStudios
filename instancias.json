@@ -25,13 +25,13 @@
       "descripcion": "CobbleVerse"
     },
     {
-      "nombre": "Fabulously",
+      "nombre": "fabulously",
       "version": "1.21.11",
       "whitelist": "off",
       "whitelist_nicks": ["TheWiron", "TheMurft"],
       "tipo": "fabric",
       "fabric_version": "fabric-loader-0.18.4-1.21.11",
-      "modpack": "Fabulously Optimized 1.0.0",
+      "modpack": "fabulously.mrpack",
       "java_version": "21",
       "icon": "coble.webp",
       "descripcion": "CobbleVerse"
