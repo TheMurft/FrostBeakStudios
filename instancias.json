@@ -3,7 +3,7 @@
     {
       "nombre": "TheMurft Studio ON",
       "version": "1.21.1",
-      "whitelist": "off",
+      "whitelist": "on",
       "whitelist_nicks": ["Thimurft", "The_Murft"],
       "tipo": "fabric",
       "fabric_version": "fabric-loader-0.18.4-1.21.1",
