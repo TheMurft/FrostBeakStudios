@@ -33,7 +33,7 @@
       "fabric_version": "fabric-loader-0.18.4-1.21.11",
       "modpack": "fabulously.mrpack",
       "java_version": "21",
-      "icon": "coble.webp",
+      "icon": "icon.png",
       "descripcion": "CobbleVerse"
     }
 
