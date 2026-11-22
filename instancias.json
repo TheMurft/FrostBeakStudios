@@ -3,6 +3,7 @@
     {
       "nombre": "TheMurft Studio ON",
       "version": "1.21.1",
+      "iversion": 1,
       "whitelist": "on",
       "whitelist_nicks": [
         "Thimurft",
@@ -18,6 +19,7 @@
     {
       "nombre": "CraftMania",
       "version": "1.21.1",
+      "iversion": 1,
       "whitelist": "off",
       "whitelist_nicks": [],
       "tipo": "fabric",
