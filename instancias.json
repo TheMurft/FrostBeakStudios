@@ -16,36 +16,6 @@
       "descripcion": "Instancia oficial basada en Fabric. Rendimiento optimizado con Java 21 y modpack principal integrado para una experiencia de juego vanguardista y sin interrupciones.\nWHITELIS ON"
     },
     {
-      "nombre": "CobbleVerse",
-      "version": "1.21.1",
-      "whitelist": "off",
-      "whitelist_nicks": [
-        "TheWiron",
-        "TheMurft"
-      ],
-      "tipo": "fabric",
-      "fabric_version": "fabric-loader-0.18.4-1.21.1",
-      "modpack": "https://drive.usercontent.google.com/download?id=1PZiGVMvYtIj7TxExPmPeOkOV90O7o9wy&export=download&authuser=0&confirm=t&uuid=4f884d19-ed27-45a3-b83c-410f2bf99f12&at=AGN2oQ22Tsk5gSJEgNhiL1yJcN-n:1774554270483",
-      "java_version": "21",
-      "icon": "coble.webp",
-      "descripcion": "CobbleVerse"
-    },
-    {
-      "nombre": "fabulously",
-      "version": "1.21.11",
-      "whitelist": "off",
-      "whitelist_nicks": [
-        "TheWiron",
-        "TheMurft"
-      ],
-      "tipo": "fabric",
-      "fabric_version": "fabric-loader-0.18.4-1.21.11",
-      "modpack": "fabulously.mrpack",
-      "java_version": "21",
-      "icon": "icon.png",
-      "descripcion": "CobbleVerse"
-    },
-    {
       "nombre": "CraftMania",
       "version": "1.21.1",
       "whitelist": "off",
