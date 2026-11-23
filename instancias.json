@@ -6,8 +6,8 @@
       "iversion": 1,
       "whitelist": "on",
       "whitelist_nicks": [
-        "Xado_gr",
-        "The_Murft"
+        "herobrine",
+        "herobrine2"
       ],
       "tipo": "fabric",
       "fabric_version": "fabric-loader-0.18.4-1.21.1",
@@ -20,8 +20,11 @@
       "nombre": "CraftMania",
       "version": "1.21.1",
       "iversion": 1,
-      "whitelist": "off",
-      "whitelist_nicks": [],
+      "whitelist": "on",
+      "whitelist_nicks": [
+        "herobrine",
+        "herobrine2"
+      ],
       "tipo": "fabric",
       "fabric_version": "fabric-loader-0.20.1-1.21.1",
       "modpack": "https://drive.usercontent.google.com/download?id=1k6zAI0m74_JIAQWG3Esq4CNsZhBbtbjz&export=download&confirm=t",
