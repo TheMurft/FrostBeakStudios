@@ -20,7 +20,7 @@
       "nombre": "CraftMania",
       "version": "1.21.1",
       "iversion": 1,
-      "whitelist": "no",
+      "whitelist": "off",
       "whitelist_nicks": [
         "herobrine",
         "herobrine2"
